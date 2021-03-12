@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @christineyoo
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning React 
+- ✔ Proficient in HTML, CSS, JavaScript + JS libraries like jQuery and React
+- 🌱 I’m currently learning server-side programming with Node and Postgres
+- 🧠 I love to learn and work collaboratively
+- ✨ Interested in design and creating a seamless UX
 - 📫 Reach me at my page: https://christineyoo.github.io/my-page/
 
 <!---
