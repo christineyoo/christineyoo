@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @christineyoo
+- 👋 Hi, I’m Christine
 - 👀 I’m interested in full-stack web development
-- ✔ Proficient in HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL
+- ✔ Proficient in JavaScript, React, Node.js, Express, PostgreSQL, HTML/CSS
 - 🌱 I’m currently learning about data structures and algorithms
 - 🧠 I love to learn about astronomy, food, and a lot of other things
 - ✨ Interested in creating a seamless UX from front to back
