@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christine
+👋 Hi, I’m Christine
 
 <!---
 christineyoo/christineyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
